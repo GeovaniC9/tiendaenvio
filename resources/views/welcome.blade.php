@@ -46,7 +46,7 @@
                     <div class="grid grid-cols-2 md:grid-cols-2">
                         <div class="center">
                             <div class="flex items-center">
-                                <h2>Tienda de envio</h2>
+                                <h2>Tienda de envi</h2>
                             </div>
 
                             
